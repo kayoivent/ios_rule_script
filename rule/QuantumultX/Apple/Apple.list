@@ -24,7 +24,6 @@ HOST-SUFFIX,apple.com.cdn20.com,Apple
 HOST-SUFFIX,apple.com.cn,Apple
 HOST-SUFFIX,apple.com.mwcloudcdn.com,Apple
 HOST-SUFFIX,apple.com.mwcname.com,Apple
-HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,appleicloud.cn,Apple
 HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,applemx-icloud.com,Apple
@@ -95,11 +94,9 @@ HOST-KEYWORD,icloud.com.akadns.net,Apple
 HOST-KEYWORD,icoudo,Apple
 HOST-KEYWORD,icoudos,Apple
 HOST-KEYWORD,testflight,Apple
-USER-AGENT,AppleNews*,Apple
 USER-AGENT,AppleTV*,Apple
 USER-AGENT,Music*,Apple
 USER-AGENT,com.apple.appstored*,Apple
-USER-AGENT,com.apple.news*,Apple
 USER-AGENT,com.apple.trustd*,Apple
 USER-AGENT,com.apple.tv*,Apple
 IP-CIDR,139.178.128.0/18,Apple
